@@ -1,0 +1,14 @@
+Claude + OpenRouter Setup 👇
+1⃣Claude
+● Open Claude → Turn Developer Mode ON.
+● Ask Claude for the required API configuration.
+2⃣OpenRouter
+● Go to OpenRouter.com.
+● Log in only with a GitHub account that is older than 1 year.
+● Go to Models → Search “Claude Opus 5” → Create Key → New.
+● Copy the API key.
+3⃣Claude
+● Go back to Claude.
+● Paste the API key into the configuration Claude provided.
+● Click Apply/Save. Done! ✅
+●
